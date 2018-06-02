@@ -8,8 +8,6 @@
 
 Mi nombre es Björn Hempel. Soy ingeniero de DevOps en XYZ. Me encanta el desarrollo de software, la automatización, los lenguajes de programación, las innovaciones y el progreso técnico, la inteligencia artificial, la seguridad, los lenguajes, las matemáticas, la física... Oh, Dios, la lista es demasiado larga. Pero sobre todo me encanta Internet con todas sus posibilidades. Conectando el mundo. La libre disponibilidad del conocimiento. Permítanme compartir con ustedes todos mis repositorios, tutoriales y bibliotecas, que resumiré a continuación.
 
-Traducción realizada con el traductor www.DeepL.com/Translator
-
 ### 1.1 Profiles
 
 * **XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
