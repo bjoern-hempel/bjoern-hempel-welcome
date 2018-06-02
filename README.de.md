@@ -4,7 +4,7 @@
 
 <img src="images/bjoern-hempel.jpg" width="150">
 
-Hello! ¡Hola! Hallo!
+[Hello!](README.md) [¡Hola!](README.es.md) [Hallo!](README.de.md)
 
 Mein Name ist Björn Hempel. Ich bin DevOps Engineer bei [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). Ich liebe die Entwicklung von Software, die Automatisierung, Programmiersprachen, technische Neuerungen und dem Fortschritt, künstliche Intelligenz, Sicherheit, Sprachen, Mathematik, Physik.. Oh Gott, die Liste ist zu lang. Aber allem voran liebe ich das Internet mit all seinen Möglichkeiten. Die Vernetzung der Welt. Die freie Verfügbarkeit von Wissen. Lasst mich euch teilhaben an all meinen Repositories, Tutorials und Bibliotheken, welche ich euch nachfolgend zusammenfassen werde.
 
