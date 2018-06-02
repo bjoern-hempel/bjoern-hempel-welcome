@@ -6,7 +6,7 @@
 
 [<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
-Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). Me encanta el desarrollo de software, la automatización, los lenguajes de programación, las innovaciones y el progreso técnico, la inteligencia artificial, la seguridad, los lenguajes, las matemáticas, la física... Oh Dios, la lista es demasiado larga. Pero sobre todo me encanta Internet con todas sus posibilidades. Conectando el mundo. La libre disponibilidad del conocimiento. Permítanme compartir con vosotros todos mis repositorios, tutoriales y bibliotecas, que resumiré a continuación.
+Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). Me encanta el desarrollo de software, la automatización, los lenguajes de programación, las innovaciones y el progreso técnico, la inteligencia artificial, la seguridad, los lenguajes, las matemáticas, la física... Oh Dios, la lista es demasiado larga. Pero sobre todo me encanta Internet con todas sus posibilidades. Conectando el mundo. La libre disponibilidad del conocimiento. La licencia del MIT. Permítanme compartir con vosotros todos mis repositorios, tutoriales y bibliotecas, que resumiré a continuación.
 
 ### 1.1 Profiles
 
