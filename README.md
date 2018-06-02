@@ -1,6 +1,4 @@
-# Björn Hempel <bjoern@hempel.li>
-
-# Create neuronal networks
+# Björn Hempel
 
 An introduction to all my repositories
 
