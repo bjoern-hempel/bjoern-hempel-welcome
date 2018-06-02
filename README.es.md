@@ -1,12 +1,14 @@
 # Björn Hempel
 
-## 1. Introduction
+## 1. Introducción
 
 <img src="images/bjoern-hempel.jpg" width="150">
 
 [<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
-My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). I love the development of software, automation, test-driven development, programming languages, technical innovations and progress, artificial intelligence, security, languages, mathematics, physics... Oh, God, the list is too long. But above all I love the Internet with all its possibilities. Networking the world. The free availability of knowledge. Let me share with you all my repositories, tutorials and libraries, which I will summarize below.
+Mi nombre es Björn Hempel. Soy ingeniero de DevOps en XYZ. Me encanta el desarrollo de software, la automatización, los lenguajes de programación, las innovaciones y el progreso técnico, la inteligencia artificial, la seguridad, los lenguajes, las matemáticas, la física... Oh, Dios, la lista es demasiado larga. Pero sobre todo me encanta Internet con todas sus posibilidades. Conectando el mundo. La libre disponibilidad del conocimiento. Permítanme compartir con ustedes todos mis repositorios, tutoriales y bibliotecas, que resumiré a continuación.
+
+Traducción realizada con el traductor www.DeepL.com/Translator
 
 ### 1.1 Profiles
 
