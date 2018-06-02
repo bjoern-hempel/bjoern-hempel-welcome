@@ -48,10 +48,10 @@ Mein Name ist Björn Hempel. Ich bin DevOps Engineer bei XYZ. Ich liebe die Entw
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater)
 
-## A. Authors
+## A. Authoren
 
 * Björn Hempel <bjoern@hempel.li> - _Initial work_ - [https://github.com/bjoern-hempel](https://github.com/bjoern-hempel)
 
-## B. Licence
+## B. Lizenzen
 
 This tutorial is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
