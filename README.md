@@ -22,7 +22,7 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 
 ### 2.2 Bash
 
-*
+* [Friends of bash librrary](https://github.com/bjoern-hempel/friends-of-bash)
 
 ### 2.3 Javascript
 
