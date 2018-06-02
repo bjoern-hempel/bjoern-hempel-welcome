@@ -10,8 +10,8 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 
 ### 0.1 Profiles
 
-**XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
-**LinkedIn**: [linkedin.com](https://www.linkedin.com/in/bjoernhempel)
+* **XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
+* **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/bjoernhempel)
 
 ## 1. Repositories, tutorials and libraries
 
