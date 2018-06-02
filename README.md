@@ -4,9 +4,9 @@
 
 Hello! ¡Hola! Hallo!
 
-My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html).
+My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). I love the development of software, automation, programming languages, technical innovations, artificial intelligence, security, mathematics, physics... Oh, God, the list is long. But above all I love the Internet with all its possibilities. Networking the world. The free availability of knowledge. Let me share with you all my repositories, tutorials and libraries, which I will summarize below.
 
-## 0. Introduction
+## 1. Repositories, tutorials and libraries
 
 Coming soon..
 
