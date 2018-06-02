@@ -18,6 +18,7 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 ### 2.1 Tutorials
 
 * [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
+* [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
 
 ### 2.2 Bash
 
@@ -34,7 +35,9 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 
 ### 2.5 Artificial Intelligence
 
+* [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
+* [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
 
 ## A. Authors
 
