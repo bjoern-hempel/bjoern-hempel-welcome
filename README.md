@@ -25,15 +25,16 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 
 ### 2.3 Javascript
 
-*
+* [Javascript Numerical Analysis Library](https://github.com/bjoern-hempel/js-analysis)
+* [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
 
 ### 2.4 PHP
 
-*
+* [A PHP WebCrawler](https://github.com/bjoern-hempel/php-web-crawler)
 
 ### 2.5 Artificial Intelligence
 
-* 
+* [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
 
 ## A. Authors
 
