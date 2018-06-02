@@ -13,11 +13,11 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 * **XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
 * **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/bjoernhempel)
 
-## 2. Repositories, tutorials and libraries
+## 2. Repositories, tutorials and libraries on [github.com](https://github.com/bjoern-hempel)
 
 ### 2.1 Tutorials
 
-* 
+* [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
 
 ### 2.2 Bash
 
