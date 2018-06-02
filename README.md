@@ -1,6 +1,6 @@
 # Björn Hempel
 
-![Björn Hempel](/images/bjoern-hempel.jpg =150x)
+<img alt="Björn Hempel" src="images/bjoern-hempel.jpg width="150">
 
 Hello! ¡Hola! Hallo!
 
