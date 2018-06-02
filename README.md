@@ -1,6 +1,8 @@
 # Björn Hempel
 
-<img align="left" src="images/bjoern-hempel.jpg" width="150"> An introduction to all my repositories
+<img align="left" src="images/bjoern-hempel.jpg" width="150"> Hello! ¡Hola! Hallo!
+
+My name is Björn Hempel.
 
 ## 0. Introduction
 
