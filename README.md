@@ -1,8 +1,13 @@
 # Björn Hempel
 
-<img align="left" src="images/bjoern-hempel.jpg" width="150"> Hello! ¡Hola! Hallo!
+<table >
+  <tr>
+    <td align="left"><img src="images/bjoern-hempel.jpg" width="150"></td>
+    <td align="right"><h2>Hello! ¡Hola! Hallo!</h2></td>
+  </tr>
+</table>
 
-My name is Björn Hempel. I'm Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html).
+My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html).
 
 ## 0. Introduction
 
