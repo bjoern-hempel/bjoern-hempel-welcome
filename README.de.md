@@ -22,7 +22,7 @@ Mein Name ist Björn Hempel. Ich bin DevOps Engineer bei [ressourcenmangel GmbH]
 
 ### 2.2 Bash
 
-* [Friends of bash librrary](https://github.com/bjoern-hempel/friends-of-bash)
+* [Friends of bash library](https://github.com/bjoern-hempel/friends-of-bash)
 * [A service checker](https://github.com/bjoern-hempel/service-checker)
 * [An apache host viewer](https://github.com/bjoern-hempel/apache-host-viewer)
 * [A project analyser](https://github.com/bjoern-hempel/project-analyser)
