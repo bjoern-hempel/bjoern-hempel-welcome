@@ -6,7 +6,7 @@
 
 Hello! ¡Hola! Hallo!
 
-My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). I love the development of software, automation, test-driven development, programming languages, technical innovations, artificial intelligence, security, languages, mathematics, physics... Oh, God, the list is too long. But above all I love the Internet with all its possibilities. Networking the world. The free availability of knowledge. Let me share with you all my repositories, tutorials and libraries, which I will summarize below.
+My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html). I love the development of software, automation, test-driven development, programming languages, technical innovations and progress, artificial intelligence, security, languages, mathematics, physics... Oh, God, the list is too long. But above all I love the Internet with all its possibilities. Networking the world. The free availability of knowledge. Let me share with you all my repositories, tutorials and libraries, which I will summarize below.
 
 ### 1.1 Profiles
 
