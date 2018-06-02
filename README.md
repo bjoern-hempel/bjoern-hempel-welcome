@@ -1,6 +1,6 @@
 # Björn Hempel
 
-<img alt="Björn Hempel" src="images/bjoern-hempel.jpg width="150">
+<img src="images/bjoern-hempel.jpg" width="150">
 
 Hello! ¡Hola! Hallo!
 
