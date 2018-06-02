@@ -1,8 +1,8 @@
 # Björn Hempel
 
-<img src="images/bjoern-hempel.jpg" width="150">
+![Björn Hempel](/images/bjoern-hempel.jpg =150x)
 
-## Hello! ¡Hola! Hallo!
+Hello! ¡Hola! Hallo!
 
 My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https://www.ressourcenmangel.de/startseite.html).
 
