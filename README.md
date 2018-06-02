@@ -1,6 +1,6 @@
 # Björn Hempel
 
-<img align="left" src="images/bjoern-hempel.jpg" width="200"> An introduction to all my repositories
+<img align="left" src="images/bjoern-hempel.jpg" width="150"> An introduction to all my repositories
 
 ## 0. Introduction
 
