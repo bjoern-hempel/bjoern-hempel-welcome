@@ -1,6 +1,6 @@
 # Björn Hempel
 
-<table >
+<table border="0">
   <tr>
     <td align="left"><img src="images/bjoern-hempel.jpg" width="150"></td>
     <td align="right"><h2>Hello! ¡Hola! Hallo!</h2></td>
