@@ -13,7 +13,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 * **XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
 * **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/bjoernhempel)
 
-## 2. Repositories, tutorials and libraries on [github.com](https://github.com/bjoern-hempel)
+## 2. Repositorios, instrucciones y bibliotecas on [github.com](https://github.com/bjoern-hempel)
 
 ### 2.1 Instrucciones
 
