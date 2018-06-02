@@ -15,7 +15,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 
 ## 2. Repositories, tutorials and libraries on [github.com](https://github.com/bjoern-hempel)
 
-### 2.1 Tutorials
+### 2.1 Instrucciones
 
 * [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
@@ -37,21 +37,21 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 
 * [A PHP WebCrawler](https://github.com/bjoern-hempel/php-web-crawler)
 
-### 2.5 Artificial Intelligence
+### 2.5 Inteligencia artificial
 
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
 * [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
 
-### 2.6 Automation
+### 2.6 Automatización
 
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater)
 
-## A. Authors
+## A. Autores
 
 * Björn Hempel <bjoern@hempel.li> - _Initial work_ - [https://github.com/bjoern-hempel](https://github.com/bjoern-hempel)
 
-## B. Licence
+## B. Licencias
 
 This tutorial is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
