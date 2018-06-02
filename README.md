@@ -26,6 +26,7 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 * [A service checker](https://github.com/bjoern-hempel/service-checker)
 * [An apache host viewer](https://github.com/bjoern-hempel/apache-host-viewer)
 * [A project analyser](https://github.com/bjoern-hempel/project-analyser)
+* [A backup mysql script](https://github.com/bjoern-hempel/backup-mysql)
 
 ### 2.3 Javascript
 
@@ -41,6 +42,11 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
 * [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
+
+### 2.6 Automation
+
+* [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy)
+* [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater)
 
 ## A. Authors
 
