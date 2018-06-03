@@ -31,7 +31,9 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 ### 2.3 Javascript
 
 * [Javascript Numerical Analysis Library](https://github.com/bjoern-hempel/js-analysis)
+* [A Javascript Testing Framework](https://github.com/bjoern-hempel/js-testing-framework)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
+* [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
 
 ### 2.4 PHP
 
