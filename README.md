@@ -50,6 +50,12 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater)
 
+### 2.7 Security
+
+* [Web Application Security](https://github.com/friends-of-tutorials/web-application-security)
+* [System Hardening](https://github.com/friends-of-tutorials/system-hardening)
+* [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
+
 ## A. Authors
 
 * Björn Hempel <bjoern@hempel.li> - _Initial work_ - [https://github.com/bjoern-hempel](https://github.com/bjoern-hempel)
