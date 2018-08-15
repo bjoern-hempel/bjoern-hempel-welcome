@@ -39,6 +39,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 ### 2.4 PHP
 
 * [A PHP WebCrawler](https://github.com/bjoern-hempel/php-web-crawler)
+* [A PNG Creator from latex formulas](https://github.com/bjoern-hempel/php-latex-2-png)
 
 ### 2.5 Inteligencia artificial
 
