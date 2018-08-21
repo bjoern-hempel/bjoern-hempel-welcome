@@ -35,7 +35,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 * [A Javascript Testing Framework](https://github.com/bjoern-hempel/js-testing-framework)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
 * [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
-* [A javascript regression framework](https://github.com/bjoern-hempel/js-regression)
+* [A javascript regression framework](https://github.com/bjoern-hempel/js-regression-framework)
 
 ### 2.4 PHP
 
@@ -47,7 +47,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
 * [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
-* [A javascript regression framework](https://github.com/bjoern-hempel/js-regression)
+* [A javascript regression framework](https://github.com/bjoern-hempel/js-regression-framework)
 
 ### 2.6 Automatización
 
