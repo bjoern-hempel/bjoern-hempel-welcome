@@ -67,3 +67,7 @@ Mein Name ist Björn Hempel. Ich bin DevOps Engineer bei [ressourcenmangel GmbH]
 ## B. Lizenzen
 
 Dieses Tutorial steht unter der MIT-Lizenz - siehe die Datei [LICENSE.md](/LICENSE.md) für Details
+
+## C. Closing words
+
+Viel Spaß! :)
