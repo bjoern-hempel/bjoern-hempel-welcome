@@ -68,3 +68,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 ## B. Licencias
 
 Este tutorial está disponible bajo la licencia MIT - vea el archivo [LICENSE.md](/LICENSE.md) para más detalles
+
+## C. Closing words
+
+Diviértete! :)
