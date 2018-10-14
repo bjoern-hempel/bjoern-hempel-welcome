@@ -37,6 +37,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 * [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
 * [A javascript regression framework](https://github.com/bjoern-hempel/js-regression-framework)
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework)
+* [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework)
 
 ### 2.4 PHP
 
@@ -50,6 +51,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 * [Solve problems by searching](https://github.com/friends-of-ai/solve-problems-by-searching)
 * [A javascript regression framework](https://github.com/bjoern-hempel/js-regression-framework)
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework)
+* [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework)
 
 ### 2.6 Automatización
 
