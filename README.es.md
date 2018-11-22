@@ -54,7 +54,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework)
 * [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework)
 
-### 2.6 Machine Learning
+### 2.6 Aprendizaje automático
 
 * [Python Examples](https://github.com/friends-of-ai/python-examples)
 
