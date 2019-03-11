@@ -20,6 +20,7 @@ Mein Name ist Björn Hempel. Ich bin DevOps Engineer bei [ressourcenmangel GmbH]
 * [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence)
 * [How to install a software RAID on XenServer 7.6.2](https://github.com/friends-of-tutorials/xen-software-raid)
+* [Vergleich von Testmethoden](https://github.com/friends-of-tutorials/comparison-of-test-methods)
 
 ### 2.2 Bash
 
@@ -58,10 +59,11 @@ Mein Name ist Björn Hempel. Ich bin DevOps Engineer bei [ressourcenmangel GmbH]
 
 * [Python Examples](https://github.com/friends-of-ai/python-examples)
 
-### 2.7 Automatisierungen
+### 2.7 DevOps
 
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater)
+* [Vergleich von Testmethoden](https://github.com/friends-of-tutorials/comparison-of-test-methods)
 
 ### 2.8 Sicherheit
 
