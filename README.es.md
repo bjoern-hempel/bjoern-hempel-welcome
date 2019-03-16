@@ -33,6 +33,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 
 ### 2.3 Javascript
 
+* [Javascript Storage Manager](https://github.com/bjoern-hempel/js-storage-manager)
 * [Javascript Numerical Analysis Library](https://github.com/bjoern-hempel/js-analysis)
 * [A Javascript Testing Framework](https://github.com/bjoern-hempel/js-testing-framework)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks)
