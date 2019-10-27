@@ -56,7 +56,7 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework)
 * [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework)
 
-### 2.6 Machine Learning
+### 2.6 Machine Learning (Deep Learning)
 
 * [Keras Machine Learning Framework](https://github.com/bjoern-hempel/keras-machine-learning-framework)
 * [Keras Machine Learning Framework (Java Import Sources)](https://github.com/bjoern-hempel/keras-machine-learning-framework-java-sources)
