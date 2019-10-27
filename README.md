@@ -58,6 +58,8 @@ My name is Björn Hempel. I am Devops Engineer at [ressourcenmangel GmbH](https:
 
 ### 2.6 Machine Learning
 
+* [Keras Machine Learning Framework](https://github.com/bjoern-hempel/keras-machine-learning-framework)
+* [Keras Machine Learning Framework (Java Import Sources)](https://github.com/bjoern-hempel/keras-machine-learning-framework-java-sources)
 * [Python Examples](https://github.com/friends-of-ai/python-examples)
 
 ### 2.7 DevOps
