@@ -65,6 +65,7 @@ Mi nombre es Björn Hempel. Soy ingeniero de DevOps en [ressourcenmangel GmbH](h
 
 ### 2.7 DevOps
 
+* [A how-to guide for creating a containerised server](https://github.com/friends-of-tutorials/containerized-server)
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater)
 * [Comparación de los métodos de pruebas de software](https://github.com/friends-of-tutorials/comparison-of-test-methods)
